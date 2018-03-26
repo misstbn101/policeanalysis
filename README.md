@@ -35,5 +35,13 @@
   <p>Go here to find the where it takes the longest times to dispatch to and ways we can reduce the time.</p>
 </div>
 
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Bonus Features')">Bonus Features</button>
+</div>
+
+<div id="Bonus Features" class="tabcontent">
+  <p>Go here to find more interesting data breakdowns including heat maps, crime correlation, and more.</p>
+</div>
+
 </body>
 </html>
