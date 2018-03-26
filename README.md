@@ -11,8 +11,6 @@
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
 </div>
 
 <!-- Tab content -->
@@ -21,9 +19,17 @@
   <p>London is the capital city of England.</p>
 </div>
 
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+</div>
+
 <div id="Paris" class="tabcontent">
   <h3>Paris</h3>
   <p>Paris is the capital of France.</p> 
+</div>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
 </div>
 
 <div id="Tokyo" class="tabcontent">
