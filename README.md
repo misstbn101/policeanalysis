@@ -11,11 +11,11 @@
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Data Visuals')">Data Visuals</button>
+  <button class="tablinks" onclick="openCity(event, 'DataVisuals')">Data Visuals</button>
 </div>
 
 <!-- Tab content -->
-<div id="Data Visuals" class="DataVisuals">
+<div id="DataVisuals" class="DataVisuals">
   <p>Go here to find graphic breakdowns of the latest and most important trends in emergency responses.</p>
 </div>
 
