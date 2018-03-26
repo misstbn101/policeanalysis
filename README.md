@@ -1,6 +1,5 @@
 # policeanalysis
 
-<!DOCTYPE html>
 <html>
 <body>
 
