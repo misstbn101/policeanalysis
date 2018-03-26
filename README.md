@@ -13,8 +13,8 @@
 </div>
 
 <!-- Tab content -->
-<div id="London" class="tabcontent">
-  <p>London is the capital city of England.</p>
+<div id="Data Visuals" class="tabcontent">
+  <p>Go here to find graphic breakdowns of the latest and most important trends in emergency responses.</p>
 </div>
 
 <div class="tab">
