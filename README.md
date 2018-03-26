@@ -4,9 +4,9 @@
 <html>
 <body>
 
-<h1>Hello World</h1>
+<h1>Welcome to Emergency Analysis.</h1>
 
-<p>I'm hosted with GitHub Pages.</p>
+<p>The latest an greatest tool in emergency response prediction and optimization.</p>
 
 </body>
 </html>
