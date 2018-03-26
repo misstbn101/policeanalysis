@@ -7,6 +7,8 @@
 <h1>Welcome to Emergency Analysis.</h1>
   <p>The latest and greatest tool in emergency response prediction and optimization.</p>
 
+<h2>Use the links below to find what you are looking for.</h2>
+
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Data Visuals')">Data Visuals</button>
