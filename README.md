@@ -10,7 +10,7 @@
 <h2>Use the links below to find what you are looking for.</h2>
 
 <h2>HTML Image</h2>
-<img src="policeanalysis/Table.jpg" alt="Mountain View" width="500" height="377">
+<img src="policeanalysis/Table.jpg" alt="Table" width="500" height="377">
 
 <!-- Tab links -->
 <div class="tab">
