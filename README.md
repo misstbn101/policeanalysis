@@ -11,7 +11,7 @@
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Data Visuals')">Data Visuals</button>
+  <button class="tablinks" onclick="openCity(event, 'DataVisuals')">Data Visuals</button>
 </div>
 
 <!-- Tab content -->
