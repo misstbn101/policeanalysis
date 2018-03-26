@@ -10,7 +10,7 @@
 <h2>Use the links below to find what you are looking for.</h2>
 
 <h2>HTML Image</h2>
-[a link](https://github.com/misstbn101/policeanalysis/Table.jpg)
+[a link](https://github.com/misstbn101/repo/blobpoliceanalysis/Table.jpg)
 
 <!-- Tab links -->
 <div class="tab">
