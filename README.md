@@ -9,7 +9,7 @@
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Data Visuals')">London</button>
 </div>
 
 <!-- Tab content -->
