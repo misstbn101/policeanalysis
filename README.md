@@ -5,7 +5,7 @@
 <body>
 
 <h1>Welcome to Emergency Analysis.</h1>
-  <p>The latest an greatest tool in emergency response prediction and optimization.</p>
+  <p>The latest and greatest tool in emergency response prediction and optimization.</p>
 
 <!-- Tab links -->
 <div class="tab">
@@ -18,19 +18,19 @@
 </div>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Likely Dispatches')">Likely Dispatches</button>
 </div>
 
-<div id="Paris" class="tabcontent">
-  <p>Paris is the capital of France.</p> 
+<div id="Likely Dispatches" class="tabcontent">
+  <p>Go here to see what the most likely dispatchs are required for certain times and locations.</p> 
 </div>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+  <button class="tablinks" onclick="openCity(event, 'Dispatch Time')">Dispatch Time</button>
 </div>
 
-<div id="Tokyo" class="tabcontent">
-  <p>Tokyo is the capital of Japan.</p>
+<div id="Dispatch Time" class="tabcontent">
+  <p>Go here to find the where it takes the longest times to dispatch to and ways we can reduce the time.</p>
 </div>
 
 </body>
