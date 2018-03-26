@@ -9,7 +9,13 @@
 <h1>Data Visuals</h1>
 
 <h2>HTML Image</h2>
+<img src="policeanalysis/Table.jpg" alt="Mountain View" width="500" height="377">
+
 <img src="policeanalysis/Trend1.jpg" alt="Mountain View" width="500" height="377">
+
+<img src="policeanalysis/Trend2.jpg" alt="Mountain View" width="500" height="377">
+
+<img src="policeanalysis/Trend3.jpg" alt="Mountain View" width="500" height="377">
 
 
 
